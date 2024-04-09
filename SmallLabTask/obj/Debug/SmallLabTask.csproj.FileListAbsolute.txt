@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\SmallLabTask\SmallLabTask\bin\Debug\SmallLabTask.exe.config
+C:\Users\HP\source\repos\SmallLabTask\SmallLabTask\bin\Debug\SmallLabTask.exe
+C:\Users\HP\source\repos\SmallLabTask\SmallLabTask\bin\Debug\SmallLabTask.pdb
+C:\Users\HP\source\repos\SmallLabTask\SmallLabTask\obj\Debug\SmallLabTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SmallLabTask\SmallLabTask\obj\Debug\SmallLabTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SmallLabTask\SmallLabTask\obj\Debug\SmallLabTask.exe
+C:\Users\HP\source\repos\SmallLabTask\SmallLabTask\obj\Debug\SmallLabTask.pdb
